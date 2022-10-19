@@ -1,5 +1,5 @@
 # Aux camera allow/excludelist prop
-system_vendor_config_prop(vendor_persist_camera_prop)
+# system_vendor_config_prop(vendor_persist_camera_prop)
 
 # Wi-Fi Display
 system_public_prop(media_wfd_prop);
